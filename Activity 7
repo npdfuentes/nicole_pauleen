@@ -1,0 +1,9 @@
+# Activity 7: Comparative Resume Generation Using Multiple LLMs
+
+## Description
+This activity compared how two Large Language Models—**ChatGPT** and **Google Gemini**—generate a one-page professional resume for an aspiring **Operating Room Nurse** using the exact same prompt[cite: 77, 78]. I evaluated both outputs across content organization, professional tone, relevance, readability, and accuracy before producing a verified final resume[cite: 77, 81, 82].
+
+## What Have I Learned?
+- **Key Concepts & Skills:** I learned how different LLMs interpret identical instructions—with ChatGPT producing a concise general draft and Google Gemini generating detailed perioperative role descriptions—and why human verification is essential before finalizing professional documents[cite: 81].
+- **Challenge & Solution:** Google Gemini added specific operating room duties (such as verifying surgical consent and conducting surgical counts) that needed to be checked against my actual student-nurse scope; I solved this by critically reviewing both drafts and editing the final resume so every listed skill and duty was 100% accurate and honest[cite: 81, 82].
+- **Future Application & Improvement:** I can use AI tools to structure and polish future clinical job applications while maintaining strict accuracy, and I could improve the comparison by testing ATS keyword matching across both generated resumes.
