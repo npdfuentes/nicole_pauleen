@@ -1,0 +1,9 @@
+# Activity 5: Exploring and Improving AI Prompts
+
+## Description
+This activity explored prompt engineering in **ChatGPT** within the domain of **Nursing Education**, focusing on the **prevention of falls among hospitalized patients**[cite: 68]. I compared the output of a broad initial prompt against a refined, structured prompt that specified the persona, target audience, five evidence-based interventions with rationales, and three clinical duty examples[cite: 68, 70].
+
+## What Have I Learned?
+- **Key Concepts & Skills:** I learned how specifying role, audience, scope, and formatting constraints dramatically improves the clarity, depth, and clinical usefulness of AI-generated responses[cite: 70].
+- **Challenge & Solution:** My initial prompt produced only a brief, general paragraph lacking nursing rationales; I solved this by iteratively refining the prompt to request five specific interventions, individual rationales, and practical clinical applications[cite: 68, 70].
+- **Future Application & Improvement:** I can use structured prompting to create study guides and review nursing care concepts, while always verifying AI outputs against official hospital protocols and clinical textbooks[cite: 70].
